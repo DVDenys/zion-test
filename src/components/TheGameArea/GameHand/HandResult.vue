@@ -35,17 +35,17 @@ export default {
     }
   },
   watch: {
-    result: function(newResult) {
-      if (newResult&&this.index) {
-        console.log(newResult.toLowerCase());
-        playSound(newResult.toLowerCase());
+    result: function (newResult) {
+      if (newResult && this.index) {
+        console.log(newResult.toLowerCase())
+        playSound(newResult.toLowerCase())
       }
     }
   },
   methods: {
     playSound
   }
-  
+
 }
 </script>
 

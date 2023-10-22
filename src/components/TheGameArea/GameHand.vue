@@ -41,7 +41,7 @@ export default {
     index: {
       type: Number,
       required: true
-    },
+    }
   },
   computed: {
     isActiveHand () {
