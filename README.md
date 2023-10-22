@@ -2,7 +2,7 @@
 
 ## :rocket: Play Now
 
-https://kevinleedrum.github.io/vlackjack/
+https://dvdenys.github.io/zion-test
 
 ## Introduction
 
@@ -35,11 +35,3 @@ yarn test:unit
 - Double down after splitting (`DAS`) (except Aces)
 - No resplitting (`NR`)
 - No insurance (`NI`)
-
-The basic strategy suggestions are based on this ruleset.
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2017-Present, Kevin Lee Drum
